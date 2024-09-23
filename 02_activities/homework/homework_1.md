@@ -45,6 +45,7 @@ Using the table drop down at the top left, explore some of the contents of the d
 ![01_the_table_drop_down_at_the_top_left.png](./images/01_the_table_drop_down_at_the_top_left.png)
 
 Move on to the Logical Data Model task when you have looked through the tables
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/9dbbacf9-a40f-40f9-b93a-65dd564c290d)
 
 
 ## Logical Data Model
